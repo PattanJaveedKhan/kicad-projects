@@ -2,10 +2,9 @@
 
 PROJECT 1: THREE LEDS PCB DESIGN 
 ![image alt](https://github.com/PattanJaveedKhan/kicad-projects/blob/main/Screenshot%202025-08-31%20155253.png)
-![image alt](https://github.com/PattanJaveedKhan/kicad-projects/blob/main/Screenshot%202025-08-
+
+![image alt](https://github.com/PattanJaveedKhan/kicad-projects/blob/main/Screenshot%202025-031%20155921.png)
 
 https://github.com/user-attachments/assets/29c472d2-16ab-41b3-ab7c-6b4cade4d54b
-
-31%20155921.png)
 
 ![image alt](https://github.com/PattanJaveedKhan/kicad-projects/blob/main/Screenshot%202025-08-31%20161006.png)
